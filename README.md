@@ -20,7 +20,7 @@ For example, #seq1;size=7;TGTAGCAGCACAGAGGTCAGATGTGTAGCAGCACAGAGGTCAGATG
 
 •	Deposit all sequence txt files from the SORTED samples into a folder, index the files following the following format. Make sure the folder only contains the txt of SORTED samples.
 
-Flow_rate – target concentration – zone_number.txt
+Flow_rate –target_concentration–zone_number.txt
 
 For example, 16-10p-z1.txt.
 This name indicates the sequences were sorted under the condition of 16 mL/hr, 10p target concentration, and recovered from the first zone (zone 1).
