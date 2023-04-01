@@ -3,7 +3,7 @@
 Repository of code associated with article "A high-dimensional microfluidic approach for
 selection of aptamers with programmable binding affinities" published in Nature Chemistry
 
-# AptaZ is an algorithm that generates aptamers with desired binding affinity on the basis of high-content sequencing dataset.
+AptaZ is an algorithm that generates aptamers with desired binding affinity on the basis of high-content sequencing dataset.
 
 (*We are working to publish a protocol/technical note paper regarding Apta Z, more complied code and multiple datasets for testing will be released with the technical note upon its acceptance) 
 
