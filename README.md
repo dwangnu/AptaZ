@@ -3,13 +3,15 @@
 Repository of code associated with article "A high-dimensional microfluidic approach for
 selection of aptamers with programmable binding affinities" published in Nature Chemistry
 
-AptaZ is an algorithm that generates aptamers with desired binding affinity on the basis of high-content sequencing dataset.
+# AptaZ is an algorithm that generates aptamers with desired binding affinity on the basis of high-content sequencing dataset.
 
 (*We are working to publish a protocol/technical note paper regarding Apta Z, more complied code and multiple datasets for testing will be released with the technical note upon its acceptance) 
-Installation
+
+# Installation
 •	Make sure your computer has at least 8GB RAM
 •	Install MATLAB 2021b or later version
-Running
+
+# Running
 •	Convert the raw sequencing data (fastq) into a txt file with the following format using USEARCH or other search algorithms. Make sure to use semicolon ; as the spacer
 
 #sequence_name;count;sequence
@@ -36,5 +38,6 @@ The calculation typically takes 1 – 7 days depending on the size of dataset an
 The code will create a new folder named ‘Sum-Z-results’ under the current location ‘Sum_Z_calculation.m’ and store the SumZ scores per sequences there in the format of csv
 
 •	Interpret the data using excel, ultraedit or other softwares.
-Contact
+
+# Contact
 •	Please send your inquiry to zongjie.wang@northwestern.edu and cc shana.kelley@northwestern.edu
