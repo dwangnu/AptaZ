@@ -40,4 +40,4 @@ The code will create a new folder named ‘Sum-Z-results’ under the current lo
 •	Interpret the data using excel, ultraedit or other softwares.
 
 # Contact
-•	Please send your inquiry to zongjie.wang@northwestern.edu and cc shana.kelley@northwestern.edu
+Please send your inquiry to zongjie.wang@northwestern.edu and cc shana.kelley@northwestern.edu
