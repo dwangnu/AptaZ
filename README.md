@@ -9,7 +9,7 @@ AptaZ is an algorithm that generates aptamers with desired binding affinity on t
 
 # Installation
 •	Make sure your computer has at least 8GB RAM
-•	Install MATLAB 2021b or later version
+•	Install MATLAB 2021a or later version
 
 # Running
 •	Convert the raw sequencing data (fastq) into a txt file with the following format using USEARCH or other search algorithms. Make sure to use semicolon ; as the spacer
