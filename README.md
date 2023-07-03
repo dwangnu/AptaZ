@@ -32,7 +32,7 @@ This name indicates the sequences were sorted under the condition of 16 mL/hr, 1
 
 The code will create a new folder named ‘Z-results’ under the current location ‘Z_score_caultion.m’ and store the calculated Z scores per condition there in the format of mat
 
-The calculation typically takes 1 – 7 days depending on the size of dataset and consumes ~ 4GB RAMs during calculation.
+The calculation typically takes 6 - 24 hrs depending on the size of dataset and consumes ~ 4GB RAMs during calculation.
 
 •	Run ’Sum_Z_calculation.m’ and select the ‘Z-results’ or any renamed folder
 
