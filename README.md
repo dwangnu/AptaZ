@@ -1,11 +1,12 @@
-# AptaZ
+# AptaZ and AptaFastZ
 
 Repository of code associated with article "A high-dimensional microfluidic approach for
 selection of aptamers with programmable binding affinities" published in Nature Chemistry
 
 AptaZ is an algorithm that generates aptamers with desired binding affinity on the basis of high-content sequencing dataset.
+AptaFastZ is an rapid version of AptaZ with the same precision. We recommend using AptaFastZ.
 
-(*We are working to publish a protocol/technical note paper regarding Apta Z, more complied code and multiple datasets for testing will be released with the technical note upon its acceptance) 
+(Sample dataset is available at https://zenodo.org/record/8106594) 
 
 # Installation
 •	Make sure your computer has at least 8GB RAM
@@ -27,7 +28,7 @@ This name indicates the sequences were sorted under the condition of 16 mL/hr, 1
 
 •	Deposit the reference (unsort) txt file in any folders other than the SORTED samples.
 
-•	Run ‘Z_score_calculation.m’, follow the instructions and select the reference file in txt format and the folder containing the txt files of SORTED samples.
+•	Run ‘Z_score_calculation_fast.m’, follow the instructions and select the reference file in txt format and the folder containing the txt files of SORTED samples.
 
 The code will create a new folder named ‘Z-results’ under the current location ‘Z_score_caultion.m’ and store the calculated Z scores per condition there in the format of mat
 
